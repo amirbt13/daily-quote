@@ -21,6 +21,8 @@
 }
 .quote-box h4 {
     text-shadow: 1px 1px 3px silver;
+    margin-top: 60px;
+    font-size: 1.1rem;
 }
 .quote-box h6 {
     color: rgba(85, 85, 85, 0.669);
